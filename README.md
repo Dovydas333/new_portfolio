@@ -20,7 +20,7 @@ This repository contains the source code for my personal portfolio website, wher
 ## 🔗 Live Demo
 
 Check out the live version of my portfolio here:  
-👉 [dovydas333.github.io/New-portfolio](https://dovydas333.github.io/new-portfolio/)
+👉 [https://dovydas333.github.io/new_portfolio/)
 
 ---
 
